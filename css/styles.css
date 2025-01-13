@@ -38,6 +38,9 @@ ul {
 .header-menu-link:hover {
     color: #404bbf;
 }
+.header-menu-link:focus {
+    color: #404bbf;
+}
 
 .header-addres{
     font-style: normal;
