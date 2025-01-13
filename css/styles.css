@@ -20,7 +20,7 @@ ul {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4D5AE5; 
+    color: #4D5AE5;
 }
 
 .header-logo-color {
@@ -81,7 +81,8 @@ ul {
     letter-spacing: 0.04em;
     text-align: left;
     color: #fff;
-    cursor: pointer;    
+    cursor: pointer; 
+    background-color: #4D5AE5;
 }
 .solution-btn:hover {
     background-color: #404bbf;
@@ -118,7 +119,7 @@ color: #2E2F42
 
 /* -----------------OURTEAM------------- */
 .ourteam {
-    background-color: #F4F4FD;
+    background-color: #FFFFFF;
 }
 
 .ourteam-title {
@@ -163,6 +164,8 @@ color: #2E2F42
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
     color: #2e2f42
 }
 
