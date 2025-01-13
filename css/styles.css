@@ -133,10 +133,11 @@ color: #2E2F42
 }
 
 .ourteam-list {
-    background-color: #FFFFFF
 }
 
-.ourteam-item {}
+.ourteam-item {
+    background-color: #FFFFFF
+}
 
 .ourteam-img {}
 
